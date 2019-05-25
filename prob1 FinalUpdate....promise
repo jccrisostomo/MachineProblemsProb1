@@ -319,7 +319,6 @@ int main()
 	}
 	for (x = 0; x < 50; x++)
 	{
-		cout<<"The Final Grade of " << "= " << "\n";
 		if(finalgrade[x] > 95.57 && 105 > finalgrade[x])
 		{
 			// Corresponding GPA of students with a raw grade between 95.57 to 100
